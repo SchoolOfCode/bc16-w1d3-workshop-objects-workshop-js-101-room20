@@ -128,6 +128,7 @@ We iterate through objects slightly differently to the way we do with arrays and
 
 **Task**:
 
+- 
 - Using the information within https://javascript.info/object#forin, loop over your team object using a `for...in` loop that logs each team member's favourite animal to the console.
 
 ### 🎫 Final Ticket - REAL-WORLD EXAMPLE: TAMAGOTCHI GAME

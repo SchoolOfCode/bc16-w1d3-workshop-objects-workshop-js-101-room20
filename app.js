@@ -88,3 +88,7 @@ console.log(teamObject.james.favouriteAnimal);
 console.log(teamObject.james.likesCats);
 
 teamObject.tomas.logFavouriteAnimal();
+
+for (let member in teamObject){
+    console.log(teamObject[member].superPower)
+}
