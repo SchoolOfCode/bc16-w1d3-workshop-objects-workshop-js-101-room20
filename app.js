@@ -41,7 +41,15 @@ let james = {
 let tomas = {
     eyeColor: "brown",
     height: "5ft7",
-    age: "33",
+    age: 33,
     favouriteFood: "Eggs",
     other: "Is Always Tired"
 }
+
+console.log(tomas.age)
+console.log(tomas.eyeColor)
+
+tomas.age = tomas.age + 1
+
+console.log(tomas.age)
+
