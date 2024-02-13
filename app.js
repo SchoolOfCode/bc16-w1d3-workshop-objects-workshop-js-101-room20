@@ -1,5 +1,7 @@
 // What do objects look like?
 
+console.log("Hello World!")
+
 let myObject = {
     Laptop1: {
         screenSize: "17",
@@ -34,4 +36,12 @@ let james = {
     age: "28",
     favouriteFood: "Everything",
     other: "has 3 chidlren"
+}
+
+let tomas = {
+    eyeColor: "brown",
+    height: "5ft7",
+    age: "33",
+    favouriteFood: "Eggs",
+    other: "Is Always Tired"
 }
